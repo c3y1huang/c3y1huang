@@ -1,8 +1,8 @@
-#Hi there! 👋
+# Hi there! 👋
 
 I'm Chin-Ya.
 
-<!-- <p align='center'>You can find me @ [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/c3y1huang/).</p> -->
+You can find me @ [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/c3y1huang/).
 
 <!--
 **c3y1huang/c3y1huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
