@@ -7,7 +7,6 @@
 You can find me [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/c3y1huang/).
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=c3y1huang&left_color=grey&right_color=blue)
-![GitWar](https://gitwar.herokuapp.com/badge?username=c3y1huang)
 
 <!--
 **c3y1huang/c3y1huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
