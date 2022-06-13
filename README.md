@@ -1,9 +1,9 @@
 <h1 align='center'> Hi there! 👋 </h1>
-<p align='center'> I'm Chin-Ya.</p>
+<p align='center'>I'm Chin-Ya.</p>
 
 <p align='center'>![c3y1huang's GitHub stats](https://github-readme-stats.vercel.app/api?username=c3y1huang&count_private=true&show_icons=true&cache_seconds=1800)</p>
 
-You can find me @ [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/c3y1huang/).
+<p align='center'>You can find me @ [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/c3y1huang/).</p>
 
 <!--
 **c3y1huang/c3y1huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
