@@ -1,5 +1,6 @@
-<h1 align='center'> Hi there! 👋 </h1>
-<p align='center'>I'm Chin-Ya.</p>
+#Hi there! 👋
+
+I'm Chin-Ya.
 
 <!-- <p align='center'>You can find me @ [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/c3y1huang/).</p> -->
 
