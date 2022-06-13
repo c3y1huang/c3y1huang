@@ -1,7 +1,7 @@
 # Hi! 👋
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue) -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)]
 
 ![c3y1huang GitHub stats](https://github-readme-stats.vercel.app/api?username=c3y1huang&count_private=true&show_icons=true&cache_seconds=1800)
 
