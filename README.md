@@ -1,13 +1,11 @@
 # Hi! 👋
 
+You can find me [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/c3y1huang/).
+
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue) -->
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)
 <!-- ![c3y1huang GitHub stats](https://github-readme-stats.vercel.app/api?username=c3y1huang&count_private=true&show_icons=true&cache_seconds=1800) -->
-
-You can find me [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/c3y1huang/).
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=c3y1huang&left_color=grey&right_color=blue)
-
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=c3y1huang&left_color=grey&right_color=blue) -->
 <!--
 **c3y1huang/c3y1huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
