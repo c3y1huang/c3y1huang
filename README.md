@@ -2,7 +2,11 @@
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
-You can find me [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/c3y1huang/).
+You can find me [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/c3y1huang/)
+
+<a href="https://www.buymeacoffee.com/c3y1huang" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue) -->
 <!-- ![c3y1huang GitHub stats](https://github-readme-stats.vercel.app/api?username=c3y1huang&count_private=true&show_icons=true&cache_seconds=1800) -->
