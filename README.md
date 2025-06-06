@@ -1,6 +1,6 @@
 # Hi! 👋
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)
+![Inspiration](https://quotes-github-readme.vercel.app/api?type=vertical)
 
 You can find me [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/c3y1huang/)
 
